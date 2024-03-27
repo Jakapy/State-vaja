@@ -1,3 +1,4 @@
+import { useState } from "react";
 import { LightSwitch } from "./components/LightSwitch";
 import { TextLengthCounter } from "./components/TextLengthCounter";
 
